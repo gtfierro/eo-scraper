@@ -1,3 +1,4 @@
 - url: https://new.nsf.gov/executive-orders
   output: nsf-eo-impl.png
   wait: 5000
+  user-agent: OAI-SearchBot/1.0; +https://openai.com/searchbot
