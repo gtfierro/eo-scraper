@@ -1,2 +1,3 @@
 - url: https://new.nsf.gov/executive-orders
   output: nsf-eo-impl.png
+  wait: 5000
