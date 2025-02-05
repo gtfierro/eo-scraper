@@ -1,3 +1,9 @@
 - url: https://new.nsf.gov/executive-orders
   output: nsf-eo-impl.png
   wait: 5000
+- url: https://energy.gov
+  output: energy-gov.png
+  wait: 1000
+- url: https://www.nrel.gov  
+  output: nrel-gov.png
+  wait: 1000
