@@ -7,3 +7,6 @@
 - url: https://www.nrel.gov  
   output: nrel-gov.png
   wait: 1000
+- url: https://www.nist.gov  
+  output: nist-gov.png
+  wait: 1000
