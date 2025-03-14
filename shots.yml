@@ -16,3 +16,6 @@
 - url: https://www.nsf.gov/funding/opportunities/fmitf-formal-methods-field
   wait: 1000
   output: nsf-fmitf.png
+- url: https://www.nsf.gov/funding/opportunities/satc-20-security-privacy-trust-cyberspace
+  wait: 1000
+  output: nsf-satc.png
