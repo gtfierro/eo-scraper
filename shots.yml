@@ -4,8 +4,8 @@
 - url: https://energy.gov
   output: energy-gov.png
   wait: 1000
-- url: https://www.nrel.gov  
-  output: nrel-gov.png
+- url: https://www.nlr.gov  
+  output: nlr-gov.png
   wait: 1000
 - url: https://www.nist.gov  
   output: nist-gov.png
