@@ -1,4 +1,4 @@
-- url: https://nsf.gov/executive-orders
+- url: https://www.nsf.gov/executive-orders
   output: nsf-eo-impl.png
   wait: 5000
 - url: https://energy.gov
